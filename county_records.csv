@@ -1,0 +1,63 @@
+ID,county,burned,published,court_count1,court_count_2,fullName
+vas_accomack,Accomack,0,2,,1,ACCOMACK
+vas_albemarle,Albemarle,1,1,,,ALBEMARLE
+vas_amelia,Amelia,0,2,,1,AMELIA
+vas_amherst,Amherst,0,,,1,AMHERST
+vas_augusta,Augusta,0,,,1,AUGUSTA
+vas_bedford,Bedford,0,,1,1,BEDFORD
+vas_botetourt,Botetourt,0,,1,1,BOTETOURT
+vas_brunswick,Brunswick,0,2,,1,BRUNSWICK
+vas_buckingham,Bucking-ham,1,1,,,BUCKINGHAM
+vas_caroline,Caroline,0,1,1,1,CAROLINE
+vas_charlescity,Charles City Co.,1,2,,,CHARLES CITY
+vas_charlotte,Charlotte,0,,,1,CHARLOTTE
+vas_chesterfield,Chester-field,0,1,,1,CHESTERFIELD
+vas_culpeper,Culpeper,1,,,,CULPEPER
+vas_cumberland,Cumber-land,0,,1,1,CUMBERLAND
+vas_dinwiddie,Dinwiddie,1,1,,,DINWIDDIE
+vas_dunmore,Dunmore,0,1,,1,DUNMORE
+vas_elizabethcity,Elizabeth City Co.,1,1,,,ELIZABETH CITY (extinct)
+vas_essex,Essex,0,1,,1,ESSEX
+vas_fairfax,Fairfax,0,1,,,FAIRFAX
+vas_fauquier,Fauquier,0,1,,2,FAUQUIER
+vas_fincastle,Fincastle,0,,,1,FINCASTLE (extinct)
+vas_frederick,Frederick,0,2,,1,FREDERICK
+vas_gloucester,Gloucester,1,1,,,GLOUCESTER
+vas_goochland,Gooch-land,0,,,1,GOOCHLAND
+vas_halifax,Halifax,0,,1,1,HALIFAX
+vas_hanover,Hanover,1,1,,,HANOVER
+vas_henrico,Henrico,,1,,,HENRICO
+vas_isleofwight,Isle of Wight,0,1,,1,ISLE OF WIGHT
+vas_jamescity,James City Co.,1,1,,,JAMES CITY
+vas_kingandqueen,King & Queen,1,,,,KING AND QUEEN
+vas_kinggeorge,King George,0,2,,,KING GEORGE
+vas_kingwilliam,King William,1,2,,,KING WILLIAM
+vas_lancaster,Lancaster,0,2,,1,LANCASTER
+vas_louisa,Louisa,0,,,1,LOUISA
+vas_loudoun,Lou-doun,0,,,1,LOUDOUN
+vas_lunenburg,Lunen-burg,0,2,1,1,LUNENBURG
+vas_mecklenburg,Mecklen-burg,0,2,1,1,MECKLENBURG
+vas_middlesex,Middle-sex,0,1,1,1,MIDDLESEX
+vas_nansemond,Nansemond,1,1,,,NANSEMOND (extinct)
+vas_newkent,New Kent,1,1,,,NEW KENT
+vas_norfolk,Norfolk Co.,0,1,1,1,NORFOLK (extinct)
+vas_northampton,North-ampton,0,,,1,NORTHAMPTON
+vas_northumberland,Northum-berland,0,2,,1,NORTHUMBERLAND
+vas_orange,Orange,0,2,,1,ORANGE
+vas_pittsylvania,Pitt-sylvania,0,,,1,PITTSYLVANIA
+vas_princeedward,Prince Edward,0,2,,1,PRINCE EDWARD
+vas_princegeorge,Prince George,1,,,,PRINCE GEORGE
+vas_princewilliam,Prince William,1,,,,PRINCE WILLIAM
+vas_princessanne,Princess Anne,0,1,,,PRINCESS ANNE (extinct)
+vas_richmond,Richmond Co.,0,1,,2,RICHMOND
+vas_southampton,Southampton,0,,1,2,SOUTHAMPTON
+vas_spotsylvania,Spot-sylvania,0,,1,2,SPOTSYLVANIA
+vas_stafford,Stafford,1,1,,,STAFFORD
+vas_surry,Surry,0,1,1,2,SURRY
+vas_sussex,Sussex,0,2,1,1,SUSSEX
+vas_warwick,Warwick,1,2,,,WARWICK (extinct)
+vas_westmoreland,Westmore-land,0,1,,,WESTMORELAND
+vas_york,York,0,1,,1,YORK
+vas_berkeley,Berkeley,0,,,,BERKELEY
+wvs_hampshire,Hamp-shire,1,,,,HAMPSHIRE
+vas_westaugustadistrict,West Augusta,0,0,0,0,W. Augusta Dist.
